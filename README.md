@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senthil-bala" alt="senthil-bala" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks,Data Structures and Algorithms**
+- 🌱 I’m currently learning **Full Stack Web Developement**
 
 - 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/senthilkumarbala100/](https://www.crio.do/learn/portfolio/senthilkumarbala100/)
 
