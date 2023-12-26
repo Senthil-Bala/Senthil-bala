@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React Js,HTML,CSS,Bootstrap,Javascript,Git,Data Structures and Algorithms**
 
-- 📫 How to reach me **+91 6381771589 || senthilkumarbala100@gmail.com**
+- 📫 How to reach me **+91 6381771589 || senthilkumarbala100@gmail.com ||  https://www.linkedin.com/in/senthil-kumar-b-349766215**
 
 - ⚡ Fun fact **I am so Jovial**
 
